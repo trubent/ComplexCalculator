@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComplexCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2cbf0d94508007dfb4b4bab08f253512b5005e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComplexCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComplexCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
