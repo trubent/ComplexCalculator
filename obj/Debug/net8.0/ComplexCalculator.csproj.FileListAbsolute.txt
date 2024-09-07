@@ -1,0 +1,14 @@
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.exe
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.deps.json
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.runtimeconfig.json
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.dll
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.pdb
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.AssemblyInfoInputs.cache
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.AssemblyInfo.cs
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.csproj.CoreCompileInputs.cache
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.dll
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\refint\ComplexCalculator.dll
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.pdb
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.genruntimeconfig.cache
+D:\RUBEN_PROFILE\Desktop\qweqwe\ComplexCalculator\obj\Debug\net8.0\ref\ComplexCalculator.dll
